@@ -1,0 +1,60 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '19564804949@s.whatsapp.net',
+    fromMe: false,
+    id: 'A86D3FE0617E2FBBDC709A9745DDE923',
+    participant: undefined
+  },
+  messageTimestamp: 1692462632,
+  pushName: 'Sam',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas',
+  from: '19564804949'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '19564804949@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4E21D3A4FF925B2DADF8D094F6A2403',
+    participant: undefined
+  },
+  messageTimestamp: 1692462652,
+  pushName: 'Sam',
+  broadcast: false,
+  message: Message {
+    conversation: 'Soporte',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Soporte',
+  from: '19564804949'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '19564804949@s.whatsapp.net',
+    fromMe: false,
+    id: '5BE6AFE2C7EB3CA275C3072003A7177D',
+    participant: undefined
+  },
+  messageTimestamp: 1692462668,
+  pushName: 'Sam',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '19564804949'
+}
